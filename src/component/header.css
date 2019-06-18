@@ -1,0 +1,27 @@
+.img{
+  height: 50px;
+  width:50px;  
+  margin-left:40px;
+}
+.top-margin{
+    margin-top:40px;
+    align-items: baseline;
+}
+.row-view{
+    display:flex;
+    flex-direction: row;
+}
+.border-radius{
+    margin-top:15px;
+    color:black;
+    align-items: baseline;
+   
+}
+.size{
+   font-size: 25px;
+}
+.displayrow{
+    display: flex;
+    flex-direction: row;
+    font-size: 25px;
+}
